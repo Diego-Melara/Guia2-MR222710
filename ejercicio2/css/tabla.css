@@ -1,0 +1,27 @@
+tr,td{
+border: 3px solid #000;
+width: 50%;
+height: 1.5rem;
+}
+.head{
+    background-color: #2F5061;
+    color: #fff;
+}
+h3{
+    text-align: center;
+    display: inline-block;
+}
+p{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+table{
+    margin: auto;
+    width: 50%;
+    height: 2.5em;
+    background-color: #fff;
+    border: 3px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}

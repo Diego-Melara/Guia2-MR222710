@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #E57F84;
+}
+header{
+    text-align: center;
+    background-color: #4297A0;
+    color: #fff;
+    height: 5em;
+    padding-top: 2.5em;
+}
+#Agregar{
+    margin: auto;
+    display: block;
+    margin-top: 2.5em;
+    height: 2.5em;
+    width: 25%;
+}
