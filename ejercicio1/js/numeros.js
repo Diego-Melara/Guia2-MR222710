@@ -54,7 +54,7 @@ function cargarNum(){
     document.write("<h3>El numero ingresado es: </h3>" + numeros +"<br>");
     document.write("<h3>El numero de cifras es de: </h3>" + cantCifras +"<br>");
     document.write("<h3>El numero mayor es: </h3>" + cifraMay +"<br>");
-    document.write("<h3>El numero mayor es: </h3>" + cifraMen +"<br>");
+    document.write("<h3>El numero menor es: </h3>" + cifraMen +"<br>");
     document.write("<h3>Cantidad de cifras pares: </h3>" + cantPar +"<br>");
     document.write("<h3>Cantidad de cifras  impares: </h3>" + canImpar +"<br>");
     document.write("<h3>Suma de cifras pares: </h3>" + sumPar +"<br>");
